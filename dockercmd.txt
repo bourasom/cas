@@ -1,0 +1,1 @@
+docker run -p 80:8080 -p 443:8443 -d --name="cas" -v /home/exo/Bureau/thekeystore:/etc/cas/thekeystore -v /home/exo/Bureau/config:/etc/cas/config -ti --rm apereo/cas:v5.3.10
