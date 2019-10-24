@@ -1,0 +1,8 @@
+{
+    "@class": "org.apereo.cas.support.saml.services.SamlRegisteredService",
+    "serviceId": "http://sp.exoplatform.com:8090/portal/dologin",
+    "name": "exocas",
+    "id": 1002,
+    "evaluationsOrder": 1002,
+    "metadataLocation": "file:///etc/cas/saml/sp-exo.xml"
+}
